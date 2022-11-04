@@ -1,0 +1,22 @@
+C:\Users\Sergio Sanabria\source\repos\Señales Digitales\Señales Digitales\bin\Debug\Señales Digitales.exe.config
+C:\Users\Sergio Sanabria\source\repos\Señales Digitales\Señales Digitales\bin\Debug\Señales Digitales.exe
+C:\Users\Sergio Sanabria\source\repos\Señales Digitales\Señales Digitales\bin\Debug\Señales Digitales.pdb
+C:\Users\Sergio Sanabria\source\repos\Señales Digitales\Señales Digitales\obj\Debug\Señales Digitales.csproj.AssemblyReference.cache
+C:\Users\Sergio Sanabria\source\repos\Señales Digitales\Señales Digitales\obj\Debug\Señales Digitales.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sergio Sanabria\source\repos\Señales Digitales\Señales Digitales\obj\Debug\Señales_Digitales.Form1.resources
+C:\Users\Sergio Sanabria\source\repos\Señales Digitales\Señales Digitales\obj\Debug\Señales_Digitales.Properties.Resources.resources
+C:\Users\Sergio Sanabria\source\repos\Señales Digitales\Señales Digitales\obj\Debug\Señales Digitales.csproj.GenerateResource.cache
+C:\Users\Sergio Sanabria\source\repos\Señales Digitales\Señales Digitales\obj\Debug\Señales Digitales.csproj.CoreCompileInputs.cache
+C:\Users\Sergio Sanabria\source\repos\Señales Digitales\Señales Digitales\obj\Debug\Señales Digitales.exe
+C:\Users\Sergio Sanabria\source\repos\Señales Digitales\Señales Digitales\obj\Debug\Señales Digitales.pdb
+C:\Users\Sergio Sanabria\Proyectos c#\source\repos\Señales Digitales\Señales Digitales\bin\Debug\Señales Digitales.exe.config
+C:\Users\Sergio Sanabria\Proyectos c#\source\repos\Señales Digitales\Señales Digitales\bin\Debug\Señales Digitales.exe
+C:\Users\Sergio Sanabria\Proyectos c#\source\repos\Señales Digitales\Señales Digitales\bin\Debug\Señales Digitales.pdb
+C:\Users\Sergio Sanabria\Proyectos c#\source\repos\Señales Digitales\Señales Digitales\obj\Debug\Señales Digitales.csproj.AssemblyReference.cache
+C:\Users\Sergio Sanabria\Proyectos c#\source\repos\Señales Digitales\Señales Digitales\obj\Debug\Señales Digitales.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sergio Sanabria\Proyectos c#\source\repos\Señales Digitales\Señales Digitales\obj\Debug\Señales_Digitales.Form1.resources
+C:\Users\Sergio Sanabria\Proyectos c#\source\repos\Señales Digitales\Señales Digitales\obj\Debug\Señales_Digitales.Properties.Resources.resources
+C:\Users\Sergio Sanabria\Proyectos c#\source\repos\Señales Digitales\Señales Digitales\obj\Debug\Señales Digitales.csproj.GenerateResource.cache
+C:\Users\Sergio Sanabria\Proyectos c#\source\repos\Señales Digitales\Señales Digitales\obj\Debug\Señales Digitales.csproj.CoreCompileInputs.cache
+C:\Users\Sergio Sanabria\Proyectos c#\source\repos\Señales Digitales\Señales Digitales\obj\Debug\Señales Digitales.exe
+C:\Users\Sergio Sanabria\Proyectos c#\source\repos\Señales Digitales\Señales Digitales\obj\Debug\Señales Digitales.pdb
